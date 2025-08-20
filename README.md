@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**doguhanniltextra/doguhanniltextra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>A backend developer (Go and Java/Spring Boot)</p>
+<br>
 
-Here are some ideas to get you started:
+• ⚡ I use daily: `.go`, `.java`, `Dockerfile`, `.sql`, `.env`, `.yaml`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+• 💬 Reach me out: [doguhannilt@gmail.com](mailto:doguhannilt@gmail.com) 
+
+• 📫 I share my projects and ideas: [LinkedIn](https://www.linkedin.com/in/doguhan-ilter/)
+
+• 🔗 The other GitHub of mine: [@doguhannilt](https://github.com/doguhannilt) 
+
+• 🌱 My journey is here: [Portfolio](https://doguhanniltextra.github.io/portfolio/)
